@@ -1,0 +1,34 @@
+# Data
+pandas>=2.2.0
+numpy<2.0
+scikit-learn>=1.4.0
+
+# Graph ML
+torch>=2.2.0
+torch-geometric>=2.5.0
+networkx>=3.3
+
+# Baseline
+xgboost>=2.0.0
+
+# Explainability
+shap>=0.45.0
+
+# Visualisation
+plotly>=5.20.0
+dash>=2.16.0
+dash-bootstrap-components>=1.6.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# MLOps
+mlflow>=2.13.0
+python-dotenv>=1.0.0
+
+# Serving
+fastapi>=0.111.0
+uvicorn>=0.30.0
+
+# Dev
+pytest>=8.2.0
+ruff>=0.4.0
