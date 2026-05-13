@@ -93,4 +93,4 @@ The hybrid model (GNN embeddings + XGBoost) represents the production architectu
 ## Author
 
 **Shun Le Yi Mon (Sheryl)** · Data Scientist · NLP & GenAI  
-[LinkedIn](#) · [GitHub](https://github.com/Shun024)
+[LinkedIn](https://www.linkedin.com/in/shunleyimon724) · [GitHub](https://github.com/Shun024)
